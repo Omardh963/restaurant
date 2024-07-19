@@ -1,0 +1,12 @@
+.card{
+    max-width: 300px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+.card h2,p{
+    padding: 0 10px;
+    overflow: hidden;
+}
+.card div{
+    overflow: hidden;
+}

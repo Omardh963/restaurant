@@ -1,0 +1,22 @@
+.foot{
+    max-width: 100%;
+    width: 100%;
+    height:auto;
+    background-color: crimson;
+}
+.ftor{
+    text-align: center;
+    padding: 20px;
+}
+.ftor p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.ftor h2{
+    font-size: 39px;
+    font-weight: bolder;
+    overflow: hidden;
+}
+.h3{
+    overflow: hidden;
+}

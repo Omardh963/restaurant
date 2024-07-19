@@ -1,0 +1,26 @@
+.about{
+    max-width: 100%;
+    margin-top: 70px;
+    padding-top: 30px;
+}
+.opp img{
+width:500px;
+max-width: 100%;
+overflow: hidden;
+}
+.opp h2,p{
+    margin-top: 40px;
+    color:rgb(75, 41, 41);
+}
+.opp h2{
+    overflow: hidden;
+}
+.opp h3{
+    overflow: hidden;
+}
+.btn{
+    margin: 10px 10px;
+}
+.opp h3{
+    color:rgb(75, 41, 41);
+}

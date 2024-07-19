@@ -1,0 +1,37 @@
+.spiner {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.sp {
+    margin: 0 30px;
+}
+
+.sweets {
+    text-align: center;
+    margin-top: 40px;
+    overflow: hidden;
+}
+.sweets h3,p{
+    overflow: hidden;
+}
+.image {
+    width: 800px;
+    height: 600px;
+    max-width: 100%;
+    border-radius: 20%;
+    max-height: 100%;
+}
+
+.serv {
+  margin-top: 80px;
+  margin-right:0;
+  max-width: 100%;
+  width:100%;
+  overflow-x: hidden;
+}
+.alert {
+    text-align: center;
+    cursor: pointer;
+    max-width: 100%;
+}

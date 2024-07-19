@@ -1,0 +1,58 @@
+header{
+    width:100%;
+    max-width: 100%;
+    height:100vh;
+    background-color: rgb(161, 6, 6);
+    position: relative;
+    overflow: hidden;
+}
+.ooop img{
+    width: 500px;
+    max-width: 100%;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-right: 30px;
+    animation: omar 1s infinite 0.2s alternate ;
+    transition: 0.5s;
+}
+@keyframes omar{
+    from{
+        transform: translateY(-20px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+.ommm{
+    max-width: 100%;
+    width:100%;
+    overflow: hidden;
+    padding-top: 90px;
+    margin-top: 90px;
+}
+@media (max-width:800px) {
+    .ommm{
+        padding-top: 0;
+        margin-top: 0;
+    }
+    .ooop img{
+        width:350px;
+        margin-top: 0;
+        margin-right: 0;
+    }
+    .ommm a{
+       margin-left: 30px;
+       margin-top: 0;transform: translateY(-15px);
+    }
+}
+.ommm h2{
+    overflow: hidden;
+    font-weight: 700;
+    text-transform:uppercase;
+    font-size: 40px;
+}
+.ommm p{
+    font-size: 18px;
+    color:#fff;
+    font-weight: 500;
+}

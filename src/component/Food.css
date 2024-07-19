@@ -1,0 +1,9 @@
+.imgfood{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:15px;
+    overflow: hidden;
+    max-width: 100%;
+}
